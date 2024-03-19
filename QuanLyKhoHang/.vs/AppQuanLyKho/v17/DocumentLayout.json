@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (4)\\QuanLyKhoHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1622814-612E-4964-B42F-DCB54687564F}|AppQuanLyKho\\AppQuanLyKho.csproj|d:\\new folder (4)\\quanlykhohang\\appquanlykho\\view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1622814-612E-4964-B42F-DCB54687564F}|AppQuanLyKho\\AppQuanLyKho.csproj|solutionrelative:appquanlykho\\view\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (4)\\QuanLyKhoHang\\AppQuanLyKho\\View\\DangNhap.cs",
+              "RelativeDocumentMoniker": "AppQuanLyKho\\View\\DangNhap.cs",
+              "ToolTip": "D:\\New folder (4)\\QuanLyKhoHang\\AppQuanLyKho\\View\\DangNhap.cs [Design]",
+              "RelativeToolTip": "AppQuanLyKho\\View\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:09:04.469Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

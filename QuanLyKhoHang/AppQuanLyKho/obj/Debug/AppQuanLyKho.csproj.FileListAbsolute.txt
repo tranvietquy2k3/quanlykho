@@ -1,0 +1,84 @@
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe.config
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.pdb
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.AssemblyReference.cache
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DanhSachNhanVien.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DoiMatKhau.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DangNhap.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.Loai.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhaCungCap.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapSanPham.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.GiaoDienChinh.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapKho.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.SuaTTSanPham.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.TroGiup.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.Properties.Resources.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.ThongTinNV.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.PhieuXuat.resources
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.GenerateResource.cache
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.CoreCompileInputs.cache
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.exe
+D:\New folder\QuanLyKhoTTN-master\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.pdb
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe.config
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.pdb
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.AssemblyReference.cache
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DanhSachNhanVien.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DoiMatKhau.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DangNhap.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.Loai.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhaCungCap.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapSanPham.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.GiaoDienChinh.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapKho.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.SuaTTSanPham.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.TroGiup.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.Properties.Resources.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.ThongTinNV.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.PhieuXuat.resources
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.GenerateResource.cache
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.CoreCompileInputs.cache
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.exe
+D:\KT UngDungPhanMem\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.pdb
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe.config
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.pdb
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.AssemblyReference.cache
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DanhSachNhanVien.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DoiMatKhau.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DangNhap.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.Loai.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhaCungCap.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapSanPham.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.GiaoDienChinh.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapKho.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.SuaTTSanPham.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.TroGiup.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.Properties.Resources.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.ThongTinNV.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.PhieuXuat.resources
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.GenerateResource.cache
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.CoreCompileInputs.cache
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.exe
+D:\KT PHAN MEM UNG DUNG ( da fix )\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.pdb
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe.config
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.exe
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\bin\Debug\AppQuanLyKho.pdb
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.AssemblyReference.cache
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DanhSachNhanVien.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DoiMatKhau.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.DangNhap.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.Loai.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhaCungCap.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapSanPham.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.GiaoDienChinh.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.NhapKho.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.SuaTTSanPham.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.TroGiup.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.Properties.Resources.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.ThongTinNV.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.View.PhieuXuat.resources
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.GenerateResource.cache
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.csproj.CoreCompileInputs.cache
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.exe
+D:\New folder (4)\QuanLyKhoTTN-master\AppQuanLyKho\obj\Debug\AppQuanLyKho.pdb
